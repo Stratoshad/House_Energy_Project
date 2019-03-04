@@ -1,6 +1,14 @@
 # ORNL House Project
 
-This repository contains the notebooks for the full project I have been working the past two weeks using the ORNL sensor data. The ORNL hour is a research house in Tennessee, USA that is loaded with various sensors. Using the dataset found here [](), I have worked on a full data science project that demonstrates how energy sensor data can be combined with weather data to predict energy consumption. 
+This repository contains the notebooks for the full project I have been working the past two weeks using the ORNL sensor data. The ORNL house is a research house in Tennessee, USA that is loaded with various energy and weather sensors. Using the dataset found [here](https://openei.org/datasets/dataset/ornl-research-house-3), which contains 15 minute measurements of all sensors between Oct 2013 - Oct 2014,  I have worked on a full data science project that demonstrates how energy sensor data can be combined with weather data to predict energy consumption.
+
+The applications of this are endless with three of the most important ones being :
+
+1. Virtual Energy Audits
+
+2. Examining energy profiles to determine energy saving potential
+
+3. Complete automation of equipment scheduling using predictive models
 
 ![house](img/ORNL_house.jpg)
 
